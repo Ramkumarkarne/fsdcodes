@@ -15,7 +15,7 @@ const sortedDescending = [...numbers].sort((a, b) => b - a);
 console.log("Sorted in descending order:", sortedDescending);
 
 const student = {
-    name: "Arvind",
+    name: "Ram Kumar",
     age: 26,
     subjects: ["Math", "Physics", "Computer Science"],
     scores: {

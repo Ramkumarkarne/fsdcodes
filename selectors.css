@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+}
+h1{
+    color: blue(165,143,45);
+}
+.class{
+    background-color: rgb(13, 156, 37);
+}
+#welcome{
+    background-color: aqua;
+    font-size: 18px;
+}
+input[type="text"],[type="number"]{
+    height: 150px;
+    width: 70px;
+}
+.parent#welcome{
+    background-color: darkslateblue;
+}
+.child-selector>.hi{
+    font-size: large;
+    color: green;
+    margin-top: 120px;
+}
+.adjacent-div+p{
+    color:goldenrod;
+}
